@@ -3,9 +3,7 @@
 A simple and fun **Rock-Paper-Scissors** console game built in Python 🎮.  
 Play against the computer, get random outcomes, and enjoy creative feedback lines for each round.  
 
-rockpaperscissorsgame-python/
-                        /one.py
-                       /README.md          
+rockpaperscissorsgame-python -> one.py , README.md          
 
 ---
 
